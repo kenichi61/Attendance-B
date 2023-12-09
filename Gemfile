@@ -2,6 +2,7 @@ source "https://rubygems.org"
 
 ruby "3.0.6"
 gem "rails", "~> 7.1.0"
+gem 'rails-i18n'
 gem 'bcrypt'
 gem 'faker'
 gem 'bootstrap-sass'
