@@ -3,7 +3,10 @@ source "https://rubygems.org"
 ruby "3.0.6"
 gem "rails", "~> 7.1.0"
 gem 'bcrypt'
+gem 'faker'
 gem 'bootstrap-sass'
+gem 'will_paginate', '~> 3.3'
+gem 'bootstrap-will_paginate', '~> 1.0'
 gem "sprockets-rails"
 gem "sqlite3", "~> 1.4"
 gem "puma", ">= 5.0"
